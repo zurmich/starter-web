@@ -18,7 +18,8 @@ The main purpose is to provide simple example for Git training demos.
 
 ## How To Contribute
 
-
+Please fork this repository and then issue Pull Requests 
+for review.
 
 ## Copyright
 
