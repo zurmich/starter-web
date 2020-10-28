@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    michael  -- WPM -- michael.zurmoehle@thalesgroup.com
 
 # THANKS
 
