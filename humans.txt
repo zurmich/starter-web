@@ -4,10 +4,11 @@
 # TEAM
 
     michael  -- WPM -- michael.zurmoehle@thalesgroup.com
+    
 
 # THANKS
 
-    All my students
+    All my students ! Git stash Example.
 
 # TECHNOLOGY COLOPHON
 
